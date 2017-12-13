@@ -1,10 +1,6 @@
 //
 //  App2Tests.swift
 //  App2Tests
-//
-//  Created by Léo Pichat on 10.12.17.
-//  Copyright © 2017 Léo Pichat. All rights reserved.
-//
 
 import XCTest
 @testable import App2

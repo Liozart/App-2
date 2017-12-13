@@ -1,10 +1,6 @@
 //
 //  App2UITests.swift
 //  App2UITests
-//
-//  Created by Léo Pichat on 10.12.17.
-//  Copyright © 2017 Léo Pichat. All rights reserved.
-//
 
 import XCTest
 
